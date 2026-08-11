@@ -2,11 +2,17 @@
 
 ## Introduction
 
+OpenLab MedTec makes hardware for health care, training, and laboratory work. This curated repository keeps the related design and production files.
+
 ## Description
 
-## Hardware Projects in this repository
+## Hardware projects in this repository
 
-## Authors
+Go to the [project index](mod/README.md) to view the available designs.
+
+
+
+## Contributors
 
 - Oskar Lidtke (Designer and Curator)
 - J.C. Mariscal-Melgar (Documentation)
